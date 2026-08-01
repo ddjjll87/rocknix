@@ -18,6 +18,7 @@ on:
 permissions:
   actions: write
   contents: read
+  packages: write
 
 jobs:
   set-envs:
